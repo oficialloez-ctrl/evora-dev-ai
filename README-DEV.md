@@ -1,4 +1,4 @@
-# Évora Dev AI — protótipo do painel
+# AIRON AI — protótipo do painel
 
 ## Executar localmente
 
